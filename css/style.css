@@ -1,0 +1,63 @@
+.container{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+
+	text-align: center;
+	font-family: Goudy Old Style;
+	font-size: 50px;
+	text-align: center;
+	
+
+
+}
+.a{
+	color:blue;
+}
+.b{
+	color:red;
+}
+.c{
+	color:yellow;
+}
+.d{
+	color:blue;
+}
+.e{
+	color:green;
+}
+.f{
+	color:red;
+}
+.g{
+	color:skyblue;
+}
+.h{
+	color:red;
+}
+.i{
+	color:green;
+}
+.j{
+	color:yellow;
+}
+h2{
+	font-size: 55px;
+	text-align: center;
+	color: #333;
+}
+.ac{
+	text-align: left;
+	color: black;
+
+}
+.bgcolor{
+	background-color:blue;
+    text-align: center;
+    color: white;
+    padding: 40px;
+    margin-top: 30px;
+}
+
